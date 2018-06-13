@@ -1,0 +1,15 @@
+#container1{
+    background: url(main.jpeg);
+    height: 100%;
+    width: 100%;
+    opacity: 0.1;
+}
+#img{
+    background: url(main2.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 500px;
+    left: 100px;
+}
